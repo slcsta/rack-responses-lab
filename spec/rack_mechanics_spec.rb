@@ -17,3 +17,4 @@ describe 'App' do
     expect(last_response.body).to match(/Afternoon/i)
   end
 end
+
